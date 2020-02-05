@@ -3,11 +3,16 @@ h1{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 h4{
-  text-align: center;
   font-style: italic;
   font-family: sans-serif;
 }
+
 li{
   line-height: 20px;
-
+  list-style-position:inside;
+  border: 1px solid black;
+  text-align: center;
+}
+.center{
+  text-align: center;
 }
