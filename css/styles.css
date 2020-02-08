@@ -16,3 +16,11 @@ li{
 .center{
   text-align: center;
 }
+.column{
+  float: left;
+  width: 25%;
+}
+.column img{
+  width: 300px;
+  height: 200px;
+}
